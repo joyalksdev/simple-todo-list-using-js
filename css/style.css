@@ -1,0 +1,8 @@
+#taskList li {
+  background: #f6f8f9;
+  border-radius: 6px;
+  padding: 8px 12px;
+}
+#tasksInput:focus {
+  box-shadow: 0 0 0 3.5px rgba(25,135,84,0.25);
+}
